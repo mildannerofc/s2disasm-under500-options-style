@@ -1,8 +1,10 @@
 A Sonic 2 with Under 500 Hack Menu Style.
 
-Programs used:
+#Programs used:
+* Flex2
+* Hivepal
 
-Original description:
+## Original description
 A disassembly of Sonic the Hedgehog 2 for the Sega Mega Drive/Genesis.
 
 To build this, use build.bat if you're a Windows user, or build.lua otherwise. The built ROM will be called 's2built.bin'.
