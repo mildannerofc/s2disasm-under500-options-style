@@ -7,9 +7,9 @@ A Sonic 2 with Under 500 Hack Menu Style.
 ## Original description
 A disassembly of Sonic the Hedgehog 2 for the Sega Mega Drive/Genesis.
 
-To build this, use build.bat if you're a Windows user, or build.lua otherwise. The built ROM will be called 's2built.bin'.
+To build this, use `build.bat` if you're a Windows user, or `build.lua` otherwise. The built ROM will be called `s2built.bin`.
 
-The Lua script requires Lua version 5.3. Earlier versions will cause errors about integer divisions ('//') and bit-shifts ('<<', '>>') not being recognised.
+The Lua script requires Lua version 5.3. Earlier versions will cause errors about integer divisions (`//`) and bit-shifts (`<<`, `>>`) not being recognised.
 
 DISCLAIMER:
 Any and all content presented in this repository is presented for informational and educational purposes only.
