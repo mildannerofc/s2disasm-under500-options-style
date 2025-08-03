@@ -1,5 +1,7 @@
 A Sonic 2 with Under 500 Hack Menu Style.
 
+Programs used:
+
 Original description:
 A disassembly of Sonic the Hedgehog 2 for the Sega Mega Drive/Genesis.
 
