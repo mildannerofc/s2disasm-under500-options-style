@@ -1,8 +1,8 @@
 A Sonic 2 with Under 500 Hack Menu Style.
 
 # Programs used
-* Flex2 - Compression and sprite edit
-* Hivepal - Simple editing palette
+* [Flex2](https://github.com/kirjavascript/Flex2) - Compression and sprite edit
+* [Hivepal](https://github.com/cvghivebrain/HivePal2020) - Simple editing palette
 
 ## Original description
 A disassembly of Sonic the Hedgehog 2 for the Sega Mega Drive/Genesis.
