@@ -1,6 +1,6 @@
 A Sonic 2 with Under 500 Hack Menu Style.
 
-#Programs used:
+# Programs used
 * Flex2
 * Hivepal
 
